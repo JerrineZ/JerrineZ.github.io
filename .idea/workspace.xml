@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/The Everyday Chinese Framing of Africa A Perspective of Tourism geopolitical Encounter.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/parents.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +63,7 @@
       <workItem from="1691577049381" duration="10803000" />
       <workItem from="1691628895048" duration="18833000" />
       <workItem from="1692360946060" duration="3885000" />
-      <workItem from="1692604746503" duration="2579000" />
+      <workItem from="1692604746503" duration="2929000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1692361957909</created>
