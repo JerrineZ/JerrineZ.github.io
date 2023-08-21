@@ -5,38 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Turing.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/UCAS.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/basketball.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/basketball2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/basketball3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/chuchen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/chuchen2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/father.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/ligh2021.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/london.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/london2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/oxford.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/oxford2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/presentation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/prof_pic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/speech.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/undergraduateball.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/undergraduateball2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/undergraduateball3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/AppliedScience.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/CV_ChenChu.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/DeepIndoorCrowd.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/GSIS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/JGIS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Manuscript_JATM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/RS.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/diffusion.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/example_pdf.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/light2021.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pdf/The Everyday Chinese Framing of Africa A Perspective of Tourism geopolitical Encounter.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +59,7 @@
       <workItem from="1691577049381" duration="10803000" />
       <workItem from="1691628895048" duration="18833000" />
       <workItem from="1692360946060" duration="3885000" />
-      <workItem from="1692604746503" duration="2229000" />
+      <workItem from="1692604746503" duration="2579000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1692361957909</created>
