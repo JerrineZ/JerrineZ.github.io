@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jerrinez.github.io/sitemap.xml
