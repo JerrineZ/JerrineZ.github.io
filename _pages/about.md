@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Giser. Spatial Data Scientist.</b>
+subtitle: <b>Master of social and cultural geography at Peking University</b>
 
 profile:
   align: right
-  image: chuchen.jpg
+  image: jiayin.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>BEIJING, CHINA</p>
@@ -17,9 +17,6 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hi! I am `Jiayin Zhang` (章佳茵), a Master student supervised by Prof. [Fang Wang](http://www.cala.pku.edu.cn/info/1025/1279.htm) at College of Architecture and Landscape, Peking University. My research interests include social and cultural geography, cultural heritage and landscape, spatial perception, multiple scales, and interdisciplinary approach.
 
-Hi! I am `Chen Chu` (初晨), a Master student supervised by Prof. [Feng Lu](http://www.lreis.ac.cn/kyry/yjy/201609/t20160909_347829.html) and Assoc Prof. [Hengcai Zhang](http://www.lreis.ac.cn/kyry/fyjy/201705/t20170512_372517.html) at State Key Laboratory of Resources and Environmental Information System (LREIS), Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS). My research interests include **human mobility modeling**, **interpretable spatiotemporal prediction**, and **spatiotemporal data mining**.
-
-Standing at the intersection of <b>GIScience</b> and <b>AI</b>, I believe the research in GeoAI has reached a turning point, and a unified `location encoding` method is the key to this transition. This method should be capable of representing all the prior knowledge from geographers, such as spatial heterogeneity. Simultaneously, it should be flexible, allowing scientists from other domains to incorporate this method into their research without needing adjustments, and easily achieve performance improvement. I am eager to develop such a method and elevate GeoAI to the next level.
-
-To achieve this, I have equipped myself with fundamental skills. I enjoy exploring all types of spatial data and am enthusiastic about addressing the most important geography problems with advanced Artificial Intelligence methods.  Moreover, I prioritize the interpretability of the model and seek to understand how AI perceives our physical world. These ways of thinking are expected to guide the subsequent step of my research. I have articulated parts of my research concepts in several [papers](https://chuchen2017.github.io/publications/) during my master's studies.
+I enjoy exploring interesting `socio-cultural phenomena` and am passionate about using interdisciplinary approaches to explain and solve related spatial problems. I place cultural landscapes in a long time-series and multi-scale spatio-temporal system, tracing the past lives of cultures and their interactions with people and environments. In addition to the basic research ideas and spatial analysis methods of geography, I have made efforts to learn research methods and technical tools from disciplines such as neuroscience and anthropology, especially visual research methods, and these ways of thinking have helped me to better analyze people's emotions and spatial perceptions of cultural landscapes, which are expected to guide my next research. I have articulated parts of my research concepts in several papers during my master’s [studies](https://jerrinez.github.io/publications/).
