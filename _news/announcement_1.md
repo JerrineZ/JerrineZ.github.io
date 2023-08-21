@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2021-06-01 16:11:00 -0400
+date: 2019-05-01 16:11:00 -0400
 inline: true
 related_posts: false
 ---
 
-2021 Outstanding Bachelor’s Thesis Award of Yunnan University .
+2018-2021   First-Class Scholarship for Outstanding Students of South China Normal University (Top 3%, for four consecutive years)

@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2020-06-01 16:11:00 -0400
+date: 2019-12-31 16:11:00 -0400
 inline: true
 related_posts: false
 ---
 
-2020 Excellent Student Cadre of Yunnan Province
+<b><font color="red">2019 National Scholarship (Top 0.5%)</font></b>
+
+

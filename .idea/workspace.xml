@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes" />
+    <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_3.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_4.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_5.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_5.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_6.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_6.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_7.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_7.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_news/announcement_8.md" beforeDir="false" afterPath="$PROJECT_DIR$/_news/announcement_8.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2021-07-2-YNU.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-07-2-YNU.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-03-01-basketball.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-03-01-basketball.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-05-21-GIS.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-05-21-GIS.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/AppliedScience.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/AppliedScience2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/DeepIndoorCrowd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/GSIS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/JGIS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/Manuscript_JATM.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/RS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/brownian-motion.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/diffusion.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/light2021.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/wave-mechanics.gif" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +81,7 @@
       <workItem from="1691577049381" duration="10803000" />
       <workItem from="1691628895048" duration="18833000" />
       <workItem from="1692360946060" duration="3885000" />
-      <workItem from="1692604746503" duration="4310000" />
+      <workItem from="1692604746503" duration="6320000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1692361957909</created>

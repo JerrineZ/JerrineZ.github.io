@@ -1,41 +1,36 @@
 ---
 layout: post
-title:  My basketball career
+title:  My calligraphy works
 date: 2023-03-01 21:01:00
-description: As a basketball player
+description: Some of my calligraphy works
 tags: life images
 categories: sample-posts
-thumbnail: assets/img/basketball3.jpg
+thumbnail: assets/img/calligraphy1.jpg
 ---
-Basketball is my favorite sport. I develop the hobby to a relative high level. I have played for both my undergraduate and graduate university as a member of their men's basketball team.
-
-With the team of University of Chinese Academy of Science, we won the fifth place in the CUBA(Chinese University Basketball Association) games of Beijing. It's UCAS's first time to organize a team to take part in such competition (Thanks to our coach, Professor Tianyu Zhu, who is a former professional basketball player in CBA).
+I love Chinese calligraphy culture and write spring scrolls for my home and dormitory every year. I am also a member of the school's Calligraphy and Painting Association, and have won many first prizes in calligraphy competitions at all levels.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/basketball2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/calligraphy1.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/basketball3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/calligraphy3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Play with team of UCAS
+    My calligraphy
 </div>
-
-
-With the team of Yunnan University, we won the fifth place in the CUBA games in Yunnan Province. (Pity)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/undergraduateball2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/calligraphy2.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/undergraduateball3.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.html path="assets/img/calligraphy4.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
-    Play with Yunnan University
+    My calligraphy
 </div>
 
 
