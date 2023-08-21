@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b><font color="red">2021 Outstanding Graduate of South China Normal University (Top 1.5%)</font></b>
+2021 Outstanding Graduate of South China Normal University (Top 1.5%)

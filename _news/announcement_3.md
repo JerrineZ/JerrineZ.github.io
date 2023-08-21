@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-<b><font color="red">2019 National Scholarship (Top 0.5%)</font></b>
+2019 National Scholarship (Top 0.5%)
 
 

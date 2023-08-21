@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Master of social and cultural geography at Peking University</b>
+subtitle: <b>Peking University</b>
 
 profile:
   align: right
