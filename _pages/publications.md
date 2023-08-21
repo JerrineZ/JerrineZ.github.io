@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: On the way to the next level of GeoAI.
+description: On my way to a human geographer.
 nav: true
 nav_order: 1
 ---

@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: CV_ChenChu.pdf
-description: On my way to a spatial data scientist.
+cv_pdf: CV_JiayinZhang.pdf
+description: On my way to a human geographer.
 ---
