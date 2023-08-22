@@ -90,13 +90,11 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [
-     "Software: ArcGIS; Python; SPSS; Stata; ENVI; Origin; SketchUp; Unity; AutoCAD; Photoshop"
-  ],
+  "skills": [ ],
   "languages": [
     {
-      "language": "Python",
-      "fluency": ""
+      "language": "ArcGIS; Python; SPSS; Stata; ENVI; Origin; SketchUp; Unity; AutoCAD; Photoshop",
+      "fluency": "Fluent"
     },
     {
       "language": "English",

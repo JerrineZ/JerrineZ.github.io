@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/json/resume.json" beforeDir="false" afterPath="$PROJECT_DIR$/assets/json/resume.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +59,7 @@
       <workItem from="1691628895048" duration="18833000" />
       <workItem from="1692360946060" duration="3885000" />
       <workItem from="1692604746503" duration="16049000" />
-      <workItem from="1692698186348" duration="1458000" />
+      <workItem from="1692698186348" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1692361957909</created>
