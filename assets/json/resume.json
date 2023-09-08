@@ -6,7 +6,7 @@
     "email": "zhangjiayin1105@stu.pku.edu.cn",
     "phone": "+86-13435005576",
     "url": "https://jerrinez.github.io/",
-    "Research Interests": "Social and Cultural Geography; Cultural Heritage and Landscape; Spatial Perception; Multiple Scales; Interdisciplinary Approach",
+    "Research Interests": "Social and Cultural Geography; Emotional Geopolitics; Cultural Heritage and Landscapes; Methods at the Intersection of Geography, Urban and Rural Planning, and Neuroscience",
     "location": {
       "countryCode": "China",
       "region": "Beijing"
@@ -34,7 +34,7 @@
       "endDate": "2021-06-01",
       "score": "",
       "courses": [
-        "Social and Cultural Geography","Spatial Perception","Scale Transformation"
+        "Social and Cultural Geography","Geopolitics","Spatial Perception","Scale Transformation"
       ]
     }
   ],
@@ -92,10 +92,7 @@
   "publications": [],
   "skills": [ ],
   "languages": [
-    {
-      "language": "ArcGIS; Python; SPSS; Stata; ENVI; Origin; SketchUp; Unity; AutoCAD; Photoshop",
-      "fluency": "Fluent"
-    },
+
     {
       "language": "English",
       "fluency": "Fluent"
