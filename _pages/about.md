@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Peking University</b>
+subtitle: <b>University of California, Santa Barbara</b>
 
 profile:
   align: right
