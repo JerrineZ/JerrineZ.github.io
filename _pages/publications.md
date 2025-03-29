@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: On my way to a human geographer.
+description: On my way to a cognitive geographer.
 nav: true
 nav_order: 1
 ---
