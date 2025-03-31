@@ -4,35 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_bibliography/papers.bib" beforeDir="false" afterPath="$PROJECT_DIR$/_bibliography/papers.bib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/Manuscript_JATM.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/publication_preview/photos-screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/10.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/6.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/7.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/8.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/9.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/Manuscript_JATM.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/ibe.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/pdf/nature.pdf" beforeDir="false" />
-    </list>
+    <list default="true" id="65caa1e8-3268-408c-87e6-f8f551bb789a" name="Changes" comment="Changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -115,7 +87,7 @@
       <workItem from="1699631063340" duration="226000" />
       <workItem from="1743284828854" duration="1069000" />
       <workItem from="1743285938968" duration="2643000" />
-      <workItem from="1743383156063" duration="3316000" />
+      <workItem from="1743383156063" duration="3932000" />
     </task>
     <task id="LOCAL-00001" summary="Changes">
       <created>1692361957909</created>
