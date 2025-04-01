@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Jiayin Zhang",
-    "label": "Cognitive Geographer",
     "image": "assets/img/jiayin.jpg",
     "email": "jiayinzhang@ucsb.edu",
     "phone": "+1(805)4537531",
     "url": "https://jerrinez.github.io/",
-    "Research Interests": "Social and Cultural Geography; Emotional Geopolitics; Cultural Heritage and Landscapes; Methods at the Intersection of Geography, Urban and Rural Planning, and Neuroscience",
+    "Research Interests": "Cognitive & Behavioral Geography; Environmental Psychology & Neuroscience; Emotional Geography; Urban Studies",
     "location": {
       "countryCode": "USA",
       "region": "Santa Barbara"
@@ -14,15 +13,25 @@
   },
   "education": [
     {
-      "institution": "College of Architecture and Landscape, Peking University. <br> Supervised by <b><a href=\"http://www.cala.pku.edu.cn/info/1025/1279.htm\">Prof. Fang Wang</a> </b> ",
+      "institution": "Department of Geography, University of California, Santa Barbara. <br> Supervised by <b><a href=\"https://www.geog.ucsb.edu/people/faculty/dan-montello\">Prof. Dan Montello</a> </b> ",
+      "url": "https://www.geog.ucsb.edu/about",
+      "area": "Geography",
+      "studyType": "Ph.D.",
+      "startDate": "2024-09-26",
+      "endDate": "",
+      "courses": [
+        "Cognitive & Behavioral Geography","Emotional Geography","Environmental Psychology & Neuroscience","GIScience & Geoinformatics"
+      ]
+    },
+    {
+      "institution": "College of Architecture and Landscape, Peking University. <br> Supervised by <b><a href=\"https://www.cala.pku.edu.cn/info/1025/2745.htm\">Prof. Fang Wang</a> </b> ",
       "url": "http://www.cala.pku.edu.cn/",
       "area": "Landscape Architecture",
       "studyType": "Master",
       "startDate": "2021-09-01",
       "endDate": "2024-06-01",
-      "score": "3.86/4.0 (3/22, Top 13.6%)",
       "courses": [
-        "Cultural Heritage","Locality and Adaptation","Long Time-series Evolution","Multiple Scales"
+        "Locality and Adaptation","Environmental Psychology & Neuroscience","Urban Studies","Multi-scale Spatial Analysis"
       ]
     },
     {
@@ -32,60 +41,79 @@
       "studyType": "Bachelor",
       "startDate": "2017-09-01",
       "endDate": "2021-06-01",
-      "score": "",
       "courses": [
-        "Social and Cultural Geography","Geopolitics","Spatial Perception","Scale Transformation"
+        "Social and Cultural Geography","Emotional Geopolitics","Spatial Perception","Environmental Psychology & Neuroscience"
       ]
     }
   ],
   "awards": [
     {
-      "title": "Liao Kaiyuan Scholarship of Peking University ",
-      "date": "2022-11-01",
+      "title": "AAG Student Travel Award",
+      "date": "2025",
+      "awarder": "AAG Spatial Analysis and Modeling (SAM) Specialty Group",
+      "summary": ""
+    },
+        {  "title": "Graduate Student Association (GSA) Travel Grant",
+      "date": "2025",
+      "awarder": "University of California, Santa Barbara",
+      "summary": ""
+    },
+        {  "title": "First Prize of the China Award for Science and Technology in Construction",
+      "date": "2024",
+      "awarder": "China Awards Committee for Science and Technology in Construction",
+      "summary": ""
+    },
+        {  "title": "Second Prize for Outstanding Paper",
+      "date": "2024",
+      "awarder": "Chinese Landscape Architecture Journal",
+      "summary": ""
+    },
+        {  "title": "Liao Kaiyuan Scholarship",
+      "date": "2022",
       "awarder": "Peking University",
       "summary": "Top 10%"
     },
         {
-      "title": "Merit Student of Peking University",
-      "date": "2022-06-01",
+      "title": "Merit Student",
+      "date": "2022",
       "awarder": "Peking University",
       "summary": ""
     },
         {
       "title": "Outstanding Student Assistant of Peking University Convention Center",
-      "date": "2022-06-01",
+      "date": "2022",
       "awarder": "Peking University",
       "summary": ""
     },
     {
       "title": "Top Ten Liru Scholars of South China Normal University",
-      "date": "2021-06-01",
+      "date": "2021",
       "awarder": "South China Normal University",
       "summary": "10 out of all 7000+"
     },
     {
-      "title": "Outstanding Graduate of South China Normal University",
-      "date": "2021-12-01",
+      "title": "Outstanding Graduate",
+      "date": "2021",
       "awarder": "South China Normal University",
       "summary": "Top 1.5%"
     },
     {
+      "title": "First Prize of the Innovation Award",
+      "date": "2021",
+      "awarder": "South China Normal University",
+      "summary": ""
+    },
+    {
       "title": "National Scholarship",
-      "date": "2019-01-01",
+      "date": "2019",
       "awarder": "Ministry of Education of the People's Republic of China",
       "summary": "Chinese National Scholarship for top 0.5% undergraduate"
     },
     {
-      "title": "Innovation Scholarship of South China Normal University",
-      "date": "2019-06-01",
+      "title": "First-Class Scholarship for Outstanding Students",
+      "date": "2018-2021",
       "awarder": "South China Normal University",
-      "summary": ""
-    },
-    {
-      "title": "First-Class Scholarship for Outstanding Students of South China Normal University",
-      "date": "2021-06-01",
-      "awarder": "South China Normal University",
-      "summary": ""
+      "summary": "Top 3%, for 4 straight years"
     }
   ],
   "certificates": [],
