@@ -5,7 +5,7 @@
     "email": "jiayinzhang@ucsb.edu",
     "phone": "+1(805)4537531",
     "url": "https://jerrinez.github.io/",
-    "Research Interests": "Cognitive & Behavioral Geography; Environmental Psychology & Neuroscience; Emotional Geography; Urban Studies",
+    "Research Interests": "Human-centered GIScience/Geospatial Data Science; Environmental Perception and Behavior; Spatial Cognition; Urban and Rural Planning",
     "location": {
       "countryCode": "USA",
       "region": "Santa Barbara"
@@ -13,14 +13,14 @@
   },
   "education": [
     {
-      "institution": "Department of Geography, University of California, Santa Barbara. <br> Supervised by <b><a href=\"https://www.geog.ucsb.edu/people/faculty/dan-montello\">Prof. Daniel R. Montello</a> </b> ",
+      "institution": "Department of Geography, University of California, Santa Barbara. <br> Supervised by <b><a href=\"https://www.geog.ucsb.edu/people/faculty/dan-montello\">Prof. Daniel R. Montello</a> and <a href=\"https://www.geog.ucsb.edu/people/faculty/peter-kedron\">Prof. Peter Kedron</a></b>",
       "url": "https://www.geog.ucsb.edu/about",
       "area": "Geography, with An Interdisciplinary Emphasis in Cognitive Science ",
-      "studyType": "Ph.D.",
+      "studyType": "Ph.D. student",
       "startDate": "2024-09-26",
       "endDate": "",
       "courses": [
-        "Cognitive & Behavioral Geography","Emotional Geography","Environmental Psychology & Neuroscience","GIScience & Geoinformatics"
+        "Human-centered GIScience/Geospatial Data Science","Environmental Perception and Behavior","Spatial Cognition"
       ]
     },
     {
@@ -31,7 +31,7 @@
       "startDate": "2021-09-01",
       "endDate": "2024-06-01",
       "courses": [
-        "Locality and Adaptation","Environmental Psychology & Neuroscience","Urban Studies","Multi-scale Spatial Analysis"
+        "Locality and Adaptation","Urban and Rural Planning","Multi-scale Spatial Analysis"
       ]
     },
     {
