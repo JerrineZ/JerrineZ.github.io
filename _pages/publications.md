@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: On my way to a cognitive geographer.
+description: Exploring how people think, feel, and live in place.
 nav: true
 nav_order: 1
 ---
