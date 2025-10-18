@@ -17,14 +17,12 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I am `Jiayin Zhang` (章佳茵), a PhD student supervised by Prof. [Dan Montello](https://www.geog.ucsb.edu/people/faculty/dan-montello) at the Department of Geography, University of California, Santa Barbara. My research interests include Cognitive & Behavioral Geography, Environmental Psychology & Neuroscience, Emotional Geography, and Urban Studies.
+Hi! I am `Jiayin Zhang` (章佳茵), a PhD student supervised by Prof. [Dan Montello](https://www.geog.ucsb.edu/people/faculty/dan-montello) and Prof. [Peter Kedron](https://www.geog.ucsb.edu/people/faculty/peter-kedron) at the Department of Geography, University of California, Santa Barbara. My research interests include human-centered GIScience and social sensing.
 
-I am particularly interested in human-centered spatial analysis and the dynamics of changing urban environments. My current exploration in cognitive and behavioral geography is structured around three dimensions:
+I am particularly interested in integrating human subjective data with geospatial data science to understand human experiences in place, including emotion, perception, cognition, behavior, and environmental adaptation. My research aims to address real-world challenges of spatial and social inequality, urban well-being, and health within urban systems. I'm trying to develop an integrated approach that connects geography and psychology to better understand human–environment interactions. My current exploration is structured around three dimensions:
 
-1) Perceptual & Emotional Level (sensory access, affect): Investigating how sensory experiences and emotions are shaped by different and redeveloping geographic environments, using diverse spatial visual materials such as street view imagery, social media photos, and self-directed photography.
+1) Perceptual & Emotional Level (sensory access, affect): Investigating how visual experiences and emotions are influenced by individual and environmental differences, using material-based approach and diverse spatial visual materials such as street view imagery, social media photos, and self-directed photography.
 
-2) Cognitive Processing & Learning (attention, knowledge, memorability): Examining changes in people’s spatial cognition within communities undergoing urban redevelopment, through methods such as cognitive mapping and enhanced cognitive interviews.
+2) Cognitive Processing & Learning (attention, knowledge, memorability): Examining changes in people’s cognitive region of neighborhoods undergoing urban redevelopment, through methods such as cognitive mapping and enhanced cognitive interviews.
 
-3) Behavioral & Social Interaction (behavioral affordance, sociality): Analyzing how various spatial elements and visual forms influence walking and social behaviors, using tools such as psychophysiological measurements and virtual reality.
-
-In addition to spatial analysis methods in geography, I actively integrate research approaches from psychology and neuroscience—such as eye-tracking, EEG, and EDA—to better understand human cognition and emotion, which continue to guide the direction of my research.
+3) Behavioral & Social Interaction (behavioral affordance, sociality): Analyzing how various spatial elements and visual forms influence walking and social behaviors, using experience-based approach and tools such as psychophysiological measurements and virtual reality.
